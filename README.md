@@ -90,4 +90,4 @@ No license has been specified yet. Add a "LICENSE" file before granting others e
 
 ---
 
-Built for simple, visual, and efficient task management.
+Built for simple, visual, and efficient task management
